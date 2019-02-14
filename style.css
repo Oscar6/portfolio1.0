@@ -359,12 +359,12 @@
 
 @media (max-width: 400px) {
     .aboutContent, .workContent {
-        height: 550px;
+        height: 500px;
     }
 } 
 
 @media (max-width: 400px) {
     .closeContent, .closeContent2 {
-        height: 575px;
+        height: 525px;
     }
 } 
