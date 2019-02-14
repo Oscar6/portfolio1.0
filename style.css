@@ -345,15 +345,15 @@
     bottom: -800px !important;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 380px) {
     .aboutContent, .workContent {
-        height: 335px;
+        height: 320px;
     }
 } 
 
-@media (max-width: 400px) {
+@media (max-width: 380px) {
     .closeContent, .closeContent2 {
-        height: 355px;
+        height: 345px;
     }
 }
 
