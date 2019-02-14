@@ -299,7 +299,7 @@
     text-align: center;
     /* overflow: scroll; */
     overflow-y: auto;
-    height:100px;
+    /* height:100px; */
     height: 550px;
     font-size: 18px;
     color: rgb(255, 255, 255);
@@ -344,3 +344,15 @@
 .slide-down {
     bottom: -800px !important;
 }
+
+@media (max-width: 400px) {
+    .aboutContent, .workContent {
+        height: 335px;
+    }
+} 
+
+@media (max-width: 400px) {
+    .closeContent, .closeContent2, .closeContent3 {
+        height: 355px;
+    }
+} 
