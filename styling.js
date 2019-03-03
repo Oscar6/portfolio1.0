@@ -36,3 +36,6 @@ $(document).ready(function () {
         }
     });
 });
+
+
+// Fix slides for mobile cross browser
